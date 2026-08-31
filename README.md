@@ -12,7 +12,6 @@ The goal of this project is to demonstrate practical manual testing skills, incl
 - test summary report
 - basic SQL verification queries
 - basic REST API test examples
-- AI-assisted QA workflow
 
 ## Scope
 
