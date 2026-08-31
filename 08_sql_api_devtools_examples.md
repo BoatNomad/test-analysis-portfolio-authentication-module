@@ -1,4 +1,4 @@
-###SQL
+## SQL
 SELECT *
 FROM users
 WHERE email = 'active.user@example.com';
@@ -7,7 +7,7 @@ WHERE email = 'active.user@example.com';
 
 
 
-###REST API TESTING
+### REST API TESTING
 POST /api/login
 
 Expected status:
@@ -18,7 +18,7 @@ Expected response:
 - user id is returned
 
 
-###CHROME DEVTOOLS
+### CHROME DEVTOOLS
 In Chrome DevTools, Network tab can be used to verify:
 - request URL
 - HTTP method
