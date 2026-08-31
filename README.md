@@ -1,6 +1,6 @@
 # Test Analysis Portfolio — Authentication Module
 
-This is a sample QA portfolio project focused on testing a login and password reset module.
+This is a sample portfolio project focused on testing a login and password reset module.
 
 The goal of this project is to demonstrate practical manual testing skills, including:
 - requirements analysis
