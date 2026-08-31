@@ -31,4 +31,3 @@ The tested module includes:
 - SQL basics
 - REST API basics
 - Chrome DevTools basics
-- AI-assisted test design
