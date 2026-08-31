@@ -1,4 +1,4 @@
-# QA Portfolio Project — Login & Password Reset Module
+# Test Analysis Portfolio — Authentication Module
 
 This is a sample QA portfolio project focused on testing a login and password reset module.
 
