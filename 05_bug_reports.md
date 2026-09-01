@@ -1,6 +1,6 @@
 ## BUG-001: Password reset link can be reused
 
-Related test case: TC-007
+Related test case: TC-001
 
 Environment:
 Test
