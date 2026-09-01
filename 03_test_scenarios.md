@@ -1,4 +1,4 @@
-| ID | Test Scenario | Requirement |
+## | ID | Test Scenario | Requirement |
 
 | TS-001 | Verify successful login with valid credentials | REQ-001 |
 | TS-002 | Verify login with invalid password | REQ-002 |
