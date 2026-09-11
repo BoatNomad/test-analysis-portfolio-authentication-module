@@ -1,8 +1,9 @@
 ## SQL
+```sql
 SELECT *
 FROM users
 WHERE email = 'active.user@example.com';
-
+```
 
 ## Verify failed login attempts
 
@@ -13,14 +14,14 @@ WHERE email = 'active.user@example.com';
 ```
 
 
-## Verify password reset token status:
+## Verify password reset token status
 
-'''sql
+```sql
 SELECT user_id, token, used, expires_at
 FROM password_reset_tokens
 WHERE user_id = 123
 ORDER BY created_at DESC;
-'''
+```
 
 
 ### REST API TESTING
