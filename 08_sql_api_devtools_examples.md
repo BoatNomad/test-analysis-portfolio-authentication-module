@@ -4,6 +4,16 @@ FROM users
 WHERE email = 'active.user@example.com';
 
 
+Verify failed login attempts
+SELECT id, email, failed_login_attempts
+FROM users
+WHERE email = 'active.user@example.com';
+
+Verify password reset token status
+SELECT user_id, token, used, expires_at
+FROM password_reset_tokens
+WHERE user_id = 123
+ORDER BY created_at DESC;
 
 
 
